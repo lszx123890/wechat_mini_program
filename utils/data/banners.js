@@ -1,5 +1,5 @@
 {
-  "bannerList": [
+  "bannerList": [{
     {
       imgUrl: 'https://fastly.jsdelivr.net/gh/lszx123890/wechat_mini_program/image/banner/banner1.png'
     },
@@ -17,6 +17,6 @@
     },
     {
       imgUrl: 'https://fastly.jsdelivr.net/gh/lszx123890/wechat_mini_program/image/banner/banner6.png'
-    }
+    }}
     ]
 }
