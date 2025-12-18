@@ -12,10 +12,10 @@
     {
       "imgUrl": "https://fastly.jsdelivr.net/gh/lszx123890/wechat_mini_program/image/banner/banner4.png"
     },
-      {
+    {
       "imgUrl": "https://fastly.jsdelivr.net/gh/lszx123890/wechat_mini_program/image/banner/banner5.png"
     },
-        {
+    {
       "imgUrl": "https://fastly.jsdelivr.net/gh/lszx123890/wechat_mini_program/image/banner/banner6.png"
     }
   ]
