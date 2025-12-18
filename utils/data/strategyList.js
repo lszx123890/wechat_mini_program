@@ -20,6 +20,13 @@
       "title": "2025驾考新规解读",
       "desc": "最新驾考规则变化，新增题型及扣分标准",
       "readNum": 15600
+    },
+    {
+      "id": 4,
+      "cover": "/page/component/resources/image/finished.png",
+      "title": "熟悉科目三考场路线就用嘟嘟驾学",
+      "desc": "在考场模拟，一次要花几百，还记不清路线。可以先用嘟嘟驾学熟悉线路",
+      "readNum": 15600
     }
   ]
 }
