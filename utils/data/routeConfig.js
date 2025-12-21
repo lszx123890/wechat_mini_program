@@ -218,7 +218,7 @@
     },
     {
       "id": 9,
-      "name": "直行",
+      "name": "路口直行",
       "path": "/page/component/resources/audio/km3/straight.mp3"
     },
     {
