@@ -249,6 +249,11 @@
       "id": 12,
       "name": "学校区域",
       "path": "/page/component/resources/audio/km3/school.mp3"
+    },
+    {
+      "id": 13,
+      "name": "通过人行横道",
+      "path": "/page/component/resources/audio/km3/crosswalk.mp3"
     }
   ]
 }
