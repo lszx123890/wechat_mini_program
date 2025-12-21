@@ -1,23 +1,5 @@
-export interface Question {
-  id: number;
-  title: string;
-  options: string[];
-  correctAnswers: number[];
-  explanation: string;
-}
-
-export const lightOptions = [
-  '近光灯',
-  '远光灯',
-  '远近光交替',
-  '左转向灯',
-  '右转向灯',
-  '示廓灯',
-  '雾灯',
-  '应急灯'
-];
-
-export const questions: Question[] = [
+{
+  "questionList":  [
   {
     id: 1,
     title: "请开启前照灯",
