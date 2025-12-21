@@ -67,8 +67,8 @@
     "id": 10,
     "title": "超车",
     "options": "lightoptions",
-    "correctAnswers": [2, 3], // 远近光交替、左转向灯
-    "explanation": "超车时，应开启左转向灯表示超车意图，同时使用远近光灯交替提醒前车。"
+    "correctAnswers": [2], // 远近光交替
+    "explanation": "超车时，应使用远近光灯交替提醒前车。"
   },
   {
     "id": 11,
@@ -111,6 +111,20 @@
     "options": "lightoptions",
     "correctAnswers": [2], // 远近光交替
     "explanation": "夜间通过急弯、坡路时，应使用远近光灯交替，提醒可能出现的车辆注意，同时提高自身的视野。"
+  },
+  {
+    "id": 17,
+    "title": "前方会车",
+    "options": "lightoptions",
+    "correctAnswers": [0], // 远近光交替
+    "explanation": "夜间会车时，应使用近光灯，避免远光直射对向驾驶员造成眩目，同时保障双方清晰观察路况、安全会车。"
+  },
+  {
+    "id": 18,
+    "title": "夜间在道路上发生故障妨碍交通又难以移动",
+    "options": "lightoptions",
+    "correctAnswers": [5, 7], // 示廓灯、应急灯
+    "explanation": "夜间在道路上发生故障妨碍交通又难以移动时，应开启危险报警闪光灯、示廓灯，警示后方来车及时避让，同时清晰标示故障车的位置和轮廓。"
   }
 ]
 }
