@@ -72,7 +72,7 @@
   },
   {
     "id": 11,
-    "title": "近距离跟车行驶",
+    "title": "同方向近距离跟车行驶",
     "options": "lightoptions",
     "correctAnswers": [0], // 近光灯
     "explanation": "近距离跟车行驶时，应使用近光灯，避免使用远光灯造成前车后视镜反光影响前车驾驶员。"
