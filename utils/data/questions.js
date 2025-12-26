@@ -1,6 +1,12 @@
 {
   "questionList":  [
   {
+    "id": 0,
+    "title": "",
+    "options": "lightoptions",
+    "correctAnswers": [],
+    "explanation": ""
+  },{
     "id": 1,
     "title": "请开启前照灯",
     "options": "lightoptions",
@@ -125,6 +131,13 @@
     "options": "lightoptions",
     "correctAnswers": [5, 7], // 示廓灯、应急灯
     "explanation": "夜间在道路上发生故障妨碍交通又难以移动时，应开启危险报警闪光灯、示廓灯，警示后方来车及时避让，同时清晰标示故障车的位置和轮廓。"
+  },
+  {
+    "id": 100,
+    "title": "",
+    "options": "lightoptions",
+    "correctAnswers": [],
+    "explanation": ""
   }
 ]
 }
