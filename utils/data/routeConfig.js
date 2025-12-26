@@ -248,72 +248,72 @@
     {
       "id": 0,
       "name": "终点",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/stop.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/stop.mp3"
     },
     {
       "id": 1,
       "name": "起点",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/start.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/start.mp3"
     },
     {
       "id": 2,
       "name": "超车",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/chaoche.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/chaoche.mp3"
     },
     {
       "id": 3,
       "name": "会车",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/huiche.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/huiche.mp3"
     },
     {
       "id": 4,
       "name": "直线行驶",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/straight_line.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/straight_line.mp3"
     },
     {
       "id": 5,
       "name": "变道",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/change.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/change.mp3"
     },
     {
       "id": 6,
       "name": "左转弯",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/turn_left.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/turn_left.mp3"
     },
     {
       "id": 7,
       "name": "右转弯",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/turn_right.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/turn_right.mp3"
     },
     {
       "id": 8,
       "name": "掉头",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/u-turn.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/u-turn.mp3"
     },
     {
       "id": 9,
       "name": "路口直行",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/straight.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/straight.mp3"
     },
     {
       "id": 10,
       "name": "提速",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/speedup.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/speedup.mp3"
     },
     {
       "id": 11,
       "name": "公交站",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/bus.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/bus.mp3"
     },
     {
       "id": 12,
       "name": "学校区域",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/school.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/school.mp3"
     },
     {
       "id": 13,
       "name": "通过人行横道",
-      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.10/audio/km3/crosswalk.mp3"
+      "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/crosswalk.mp3"
     }
   ]
 }
