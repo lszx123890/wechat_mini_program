@@ -297,7 +297,7 @@
     },
     {
       "id": 10,
-      "name": "提速",
+      "name": "加减档",
       "path": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.12/audio/km3/speedup.mp3"
     },
     {
