@@ -299,37 +299,31 @@
       "id": 9,
       "name": "路口直行",
       "path": "/audio/km3/straight.mp3",
-      "path1": "/audio/km3/straight_1.mp3"
+      "path1": "/audio/km3/crosswalk_1.mp3"
     },
     {
       "id": 10,
       "name": "加减档",
-      "path": "/audio/km3/speedup.mp3",
-      "path1": "/audio/km3/speedup_1.mp3"
+      "path": "/audio/km3/speedup_1.mp3",
+      "path1": ""
     },
     {
       "id": 11,
       "name": "公交站",
-      "path": "/audio/km3/bus.mp3",
-      "path1": "/audio/km3/bus_1.mp3"
+      "path": "/audio/km3/bus_1.mp3",
+      "path1": ""
     },
     {
       "id": 12,
       "name": "学校区域",
-      "path": "/audio/km3/school.mp3",
-      "path1": "/audio/km3/school_1.mp3"
+      "path": "/audio/km3/school_1.mp3",
+      "path1": ""
     },
     {
       "id": 13,
-      "name": "通过人行横道",
-      "path": "/audio/km3/crosswalk.mp3",
-      "path1": "/audio/km3/crosswalk_1.mp3"
-    },
-    {
-      "id": 14,
       "name": "自主变道",
-      "path": "/audio/km3/changeself.mp3",
-      "path1": "/audio/km3/changeself_1.mp3"
+      "path": "/audio/km3/changeself_1.mp3",
+      "path1": ""
     }
   ]
 }
