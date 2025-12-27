@@ -244,85 +244,86 @@
     {
       "id": 0,
       "name": "终点",
-      "path": "/audio/km3/stop.mp3",
-      "path1": "/audio/km3/stop_1.mp3"
+      "path": "stop",
+      "path1": "stop_1"
     },
     {
       "id": 1,
       "name": "起点",
-      "path": "/audio/km3/start.mp3",
-      "path1": "/audio/km3/start_1.mp3"
+      "path": "start",
+      "path1": "start_1"
     },
     {
       "id": 2,
       "name": "超车",
-      "path": "/audio/km3/chaoche.mp3",
-      "path1": "/audio/km3/chaoche_1.mp3"
+      "path": "chaoche",
+      "path1": "chaoche_1"
     },
     {
       "id": 3,
       "name": "会车",
-      "path": "/audio/km3/huiche.mp3",
-      "path1": "/audio/km3/huiche_1.mp3"
+      "path": "huiche",
+      "path1": "huiche_1"
     },
     {
       "id": 4,
       "name": "直线行驶",
-      "path": "/audio/km3/straight_line.mp3",
-      "path1": "/audio/km3/straight_line_1.mp3"
+      "path": "straight_line",
+      "path1": "straight_line_1"
     },
     {
       "id": 5,
       "name": "变更车道",
-      "path": "/audio/km3/change.mp3",
-      "path1": "/audio/km3/change_1.mp3"
+      "path": "change",
+      "path1": "change_1"
     },
     {
       "id": 6,
       "name": "路口左转",
-      "path": "/audio/km3/turn_left.mp3",
-      "path1": "/audio/km3/turn_left_1.mp3"
+      "path": "turn_left",
+      "path1": "turn_left_1"
     },
     {
       "id": 7,
       "name": "路口右转",
-      "path": "/audio/km3/turn_right.mp3",
-      "path1": "/audio/km3/turn_right_1.mp3"
+      "path": "turn_right",
+      "path1": "turn_right_1"
     },
     {
       "id": 8,
       "name": "掉头",
-      "path": "/audio/km3/u-turn.mp3",
-      "path1": "/audio/km3/u-turn_1.mp3"
+      "path": "u-turn",
+      "path1": "u-turn_1"
     },
     {
       "id": 9,
       "name": "路口直行",
-      "path": "/audio/km3/straight.mp3",
-      "path1": "/audio/km3/crosswalk_1.mp3"
+      "path": "straight",
+      "path1": "crosswalk_1"
     },
     {
       "id": 10,
       "name": "加减档",
-      "path": "/audio/km3/speedup_1.mp3",
+		"namec2": "加减速",
+      "path": "speedup_1",
       "path1": ""
     },
     {
       "id": 11,
       "name": "公交站",
-      "path": "/audio/km3/bus_1.mp3",
+      "path": "bus_1",
       "path1": ""
     },
     {
       "id": 12,
       "name": "学校区域",
-      "path": "/audio/km3/school_1.mp3",
+      "path": "school_1",
       "path1": ""
     },
     {
       "id": 13,
       "name": "自主变道",
-      "path": "/audio/km3/changeself_1.mp3",
+      "path": "changeself_1",
       "path1": ""
     }
   ]
