@@ -2,6 +2,7 @@
   "strategyList": [
     {
       "id": 1,
+      "strategyId":1,
       "strategy":"科目一",
       "cover": "/page/component/resources/image/finished.png",
       "title": "科目一高频易错题汇总",
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "strategyId":3,
       "strategy":"科目四",
       "cover": "/page/component/resources/image/finished.png",
       "title": "科目四答题技巧口诀",
@@ -18,6 +20,7 @@
     },
     {
       "id": 3,
+      "strategyId":2,
       "strategy":"科目二",
       "cover": "/page/component/resources/image/finished.png",
       "title": "2025驾考新规解读",
@@ -26,6 +29,7 @@
     },
     {
       "id": 4,
+      "strategyId":3,
       "strategy":"科目三",
       "cover": "/page/component/resources/image/finished.png",
       "title": "熟悉科目三考场路线就用嘟嘟驾学",
