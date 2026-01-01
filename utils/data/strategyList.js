@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "strategyId":3,
+      "strategyId":4,
       "strategy":"科目四",
       "cover": "/page/component/resources/image/finished.png",
       "title": "科目四答题技巧口诀",
