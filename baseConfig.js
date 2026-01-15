@@ -1,3 +1,3 @@
 {
-  "base": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.26"
+  "base": "https://gcore.jsdelivr.net/gh/lszx123890/wechat_mini_program@v0.0.27"
 }
